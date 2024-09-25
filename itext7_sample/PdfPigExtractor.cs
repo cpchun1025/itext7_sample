@@ -5,6 +5,8 @@ using System.Text;
 using UglyToad.PdfPig;
 using UglyToad.PdfPig.Content;
 
+
+//dotnet add package UglyToad.PdfPig
 public class PdfPigExtractor
 {
     public static string ExtractText(string pdfPath)
